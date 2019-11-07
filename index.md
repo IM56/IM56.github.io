@@ -3,7 +3,13 @@
 ***
 
 ## About me
-I am a C++ developer with a strong interest in game programming and mathematics.
+I am a C++ developer with a strong interest in game development, particularly graphics programming and low-level optimization. I am also interested in applied mathematics and numerical simulations.
+
+***
+
+## Education
+* MSc Games Software Development, *Distinction*, Sheffield Hallam University. 2019
+* BSc Mathematics (Hons), *First class*, University of Sheffield. 2018
 
 ***
 
