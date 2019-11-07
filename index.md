@@ -3,7 +3,7 @@
 ***
 
 ## About me
-Hi, my name is Ismail and I am a C++ programmer, mathematician and games enthusiast. I recently completed my MSc in Games Software Development at Sheffield Hallam University, where I learned about gameplay programming, graphics programming and low-level optimisation. Before that, I completed my BSc in Mathematics at the University of Sheffield, where I coauthored two academic papers.
+Hi, my name is Ismail and I am a C++ programmer, mathematician and games enthusiast. I recently completed my MSc in Games Software Development at Sheffield Hallam University, where I learned about gameplay programming, graphics programming and low-level optimisation. Before that, I studied a BSc in Mathematics at the University of Sheffield where, in my final year, I undertook a research project that culminated in two academic papers.
 
 ***
 
@@ -12,13 +12,13 @@ Hi, my name is Ismail and I am a C++ programmer, mathematician and games enthusi
 * DirectX 11
 * SIMD
 * Unreal Engine 4
-* Go
-* Python
+* Concurrency in Go
+* Scientific computing in Python
 
 ***
 
 ## My projects
-* Kami's Descent
+* [Kami's Descent](kamisdescent.md)
 * Dynamic Kelvinlets (Final MSc Project)
 * GPU Particle System
 
