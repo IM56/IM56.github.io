@@ -24,5 +24,5 @@ Hi, my name is Ismail and I am a C++ programmer, mathematician and games enthusi
 ***
 
 ## Publications
-* ### I. Movahedi, E. Kim. (2017) *[Effects of shear flows on the evolution of fluctuations in interchange turbulence](https://aip.scitation.org/doi/10.1063/1.5006287)*
-* ### E. Kim, I. Movahedi. (2017) *[Effect of enhanced dissipation by shear flows on transient relaxation and probability density function in two dimensions](https://aip.scitation.org/doi/10.1063/1.5003014)*
+* I. Movahedi, E. Kim. (2017) *[Effects of shear flows on the evolution of fluctuations in interchange turbulence](https://aip.scitation.org/doi/10.1063/1.5006287)*
+* E. Kim, I. Movahedi. (2017) *[Effect of enhanced dissipation by shear flows on transient relaxation and probability density function in two dimensions](https://aip.scitation.org/doi/10.1063/1.5003014)*
