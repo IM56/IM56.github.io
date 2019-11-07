@@ -3,7 +3,7 @@
 ***
 
 ## About me
-Hi, my name is Ismail and I am a C++ programmer, mathematician and games enthusiast. I recently completed my MSc in Games Software Development at Sheffield Hallam University, where I learned about gameplay programming, graphics programming and low-level optimisation. Before that, I studied a BSc in Mathematics at the University of Sheffield where, in my final year, I undertook a research project that culminated in two academic papers.
+I am a C++ developer with a strong interest in game programming and mathematics.
 
 ***
 
