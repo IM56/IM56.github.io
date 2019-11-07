@@ -1,6 +1,4 @@
-<h1>Main Title</h1>
-<h2>About me</h2>
+<h1>Game Programming Portfolio</h1>
 
-<h2>My Projects</h2>
-<h3>Kami's Descent</h3>
-<p>This is a game project I created as part of my MSc in Games Software Development.</p>
+<h2>About me</h2>
+<p>Hi, my name is Ismail and I am a C++ programmer, mathematician and games enthusiast. I recently completed my MSc in Games Software Development at Sheffield Hallam University, where I learned about gameplay programming, graphics programming and low-level optimisation. Before that, I completed my BSc in Mathematics at the University of Sheffield, where I coauthored two academic papers.</p>
