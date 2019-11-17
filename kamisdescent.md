@@ -31,7 +31,12 @@ Halfway through the project, it was decided that instead of controlling one char
 In spite of these difficulties, I managed to develop a workable solution to meet these requirements and produce a working prototype, but the game remained scripted in Blueprints for the rest of the project.
 
 ### One Controller, Two Characters
-Part of UE4's architecture stipulates a one-to-one relationship between characters and controllers. The <code>PlayerController</code> class
+Part of UE4's architecture stipulates a one-to-one relationship between characters and controllers. The <code>PlayerController</code> class is an abstraction of player input, mapping button presses to a <code>Pawn</code>'s response, such as moving, firing etc. Whilst a <code>PlayerController</code> can be assigned to a different <code>Pawn</code>
+at run-time, it cannot serve multiple pawns simultaneously, which was problematic for our design.
+
+To workaround this, I chose to give both Kami and the Wisp their own respective <code>PlayerController</code>s as components of the player's main <code>PlayerController</code>, adding a layer of indirection between player input and character actions. When the player presses a button, the main controller accepts this input and forwards it to the intended character's <code>PlayerController</code>, which processes the input and effects the desired character action.
+
+***
 
 ## Gameplay trailer
 
