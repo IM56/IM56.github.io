@@ -25,8 +25,8 @@ I am a C++ developer with a strong interest in game development, particularly gr
 
 ## My projects
 * [Kami's Descent](kamisdescent.md)
-* Dynamic Kelvinlets (Final MSc Project)
-* GPU Particle System
+* [Dynamic Kelvinlets](dynamickelvinlets.md) (Final MSc Project)
+* [GPU Particle System](gpuparticles.md)
 
 ***
 
