@@ -40,4 +40,5 @@ To workaround this, I chose to give both Kami and the Wisp their own respective 
 
 ## Gameplay trailer
 
-<video src="https://youtu.be/mhTilYX1FPg" width="560" height="315" controls preload></video>
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/mhTilYX1FPg/mq3.jpg?sqp=CLKs0O8F&rs=AOn4CLB07OJ7bXjv-Oc_dTWA9GFBCc6AaQ)]
+(https://youtu.be/mhTilYX1FPg "Kami's Descent Gameplay Trailer")
