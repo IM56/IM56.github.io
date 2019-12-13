@@ -40,4 +40,4 @@ To workaround this, I chose to give both Kami and the Wisp their own respective 
 
 ## Gameplay trailer
 
-<video src="kd_milestone2_trailer.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
+<video src="kd_milestone2_trailer.mp4" type = "video/mp4" width="320" height="200" controls preload></video>
